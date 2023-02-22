@@ -1,5 +1,7 @@
 # 5290-Spanish-MTSA
 
+[Dataset](https://www.kaggle.com/datasets/luisdiegofv97/imdb-dataset-of-50k-movie-reviews-spanish)
+
 ## Description
 Movies are something that people love across cultures and languages. By translating movie reviews between English and Spanish, we will allow more people to connect over their mutual love (or hatred) of a movie. We will perform neural machine translation to convert Spanish reviews to English, and vice versa. We will then use sentiment analysis to characterize the reviews as either positive or negative.
 
