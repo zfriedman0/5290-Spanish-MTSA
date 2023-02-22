@@ -1,7 +1,5 @@
 # 5290-Spanish-MTSA
 
----
-
 ## Description
 Movies are something that people love across cultures and languages. By translating movie reviews between English and Spanish, we will allow more people to connect over their mutual love (or hatred) of a movie. We will perform neural machine translation to convert Spanish reviews to English, and vice versa. We will then use sentiment analysis to characterize the reviews as either positive or negative.
 
@@ -14,7 +12,7 @@ Movie reviews are a great way for viewers to explore new genres and participate 
     - Translate English movie reviews to Spanish with high accuracy.
 - Implement a sentiment analysis system that indicates whether a review is positive or negative.
 - Evaluate the machine translation system by scoring how much of the original meaning of the review is kept. This will be done using the C-DAC GIST MT tool which is designed to evaluate machine translations. Adjust the model accordingly. 
-- Evaluate the sentiment analysis by comparing the predicted score (positive or negative) to the labeled score and observe a basic confusion matrix of true positives, true negatives, false positives and false negatives to evaluate what errors we may have in the model.
+- Evaluate the sentiment analysis system by comparing the predicted score (positive or negative) to the labeled score and observe a basic confusion matrix of true positives, true negatives, false positives and false negatives to evaluate what errors we may have in the model.
 
 ## UI Mockup
 ![UI Mockup](./mock.png)
